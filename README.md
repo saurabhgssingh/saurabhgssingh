@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @saurabhgssingh
-- 👀 I’m interested in natural language processing and deep learning
-- 🌱 I’m currently learning tensorflow
-- 💞️ I’m looking to collaborate on NLP tasks on Indian Languages 
+- 👀 I’m interested in Building Generative AI solutions
+- 🌱 I’m currently learning Building LLMs from scratch
 
 
 <!---
